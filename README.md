@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Antimatter543
 - 👀 I’m interested in AI, ML and data visualisation.
-- 🌱 I’m currently learning computer science, communication and distributing work between teammates, and data visualisation.
-<!--- 💞️ I’m looking to collaborate on your mother --->
+- 🌱 I’m currently learning computer science, communication, and data visualisation. But my heart lies in RL and furthering the boundaries of AI.
+
 - 📫 How to reach me - Email @ spiralknightsowner@gmail.com
 
 <!---
