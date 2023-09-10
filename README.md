@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @Antimatter543
 - 👀 I’m interested in AI, ML and data visualisation.
 
-![](https://komarev.com/ghpvc/?username=Antimatter543&color=green)
-
-
 <!---
 - 📫 How to reach me - Email @ spiralknightsowner@gmail.com
 - 🌱 I’m currently learning computer science, communication, and data visualisation. But my heart lies in RL and furthering the boundaries of AI.
