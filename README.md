@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Antimatter543
-- 👀 I’m interested in AI, ML and data visualisation.
+- 👀 I’m interested in AI, ML and data visualisation. And also a few other things ranging from cosmology to neuroscience. I am human!
 
 <!---
 - 📫 How to reach me - Email @ spiralknightsowner@gmail.com
