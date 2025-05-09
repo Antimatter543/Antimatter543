@@ -1,8 +1,7 @@
 
 Check out my website for some cool stuff :)
 
-btw if you want to hire someone with a lot of self-motivation and agency. Hi. I have no job and I require money to live!! :D
-My website contains my current resume and some cool stuff, reach me hello@raeduslabs.com
+Want to talk about something? Contact hello@raeduslabs.com
 <!---
 - 📫 How to reach me - Email @ spiralknightsowner@gmail.com
 - 🌱 I’m currently learning computer science, communication, and data visualisation. But my heart lies in RL and furthering the boundaries of AI.
