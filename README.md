@@ -1,5 +1,3 @@
-Casual Academic @ UQ for CSSE1001, COMP2048, COMP3702.
-Interested in science, astrophysics, systems, practical things that work, and data.
 Want to talk about something? Contact hello@raeduslabs.com
 <!---
 - 📫 How to reach me - Email @ spiralknightsowner@gmail.com
