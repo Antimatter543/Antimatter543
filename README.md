@@ -1,4 +1,4 @@
-Want to talk about something? Contact hello@raeduslabs.com
+Want to talk about something? Contact spiralknightsowner@gmail.com
 <!---
 - 📫 How to reach me - Email @ spiralknightsowner@gmail.com
 - 🌱 I’m currently learning computer science, communication, and data visualisation. But my heart lies in RL and furthering the boundaries of AI.
