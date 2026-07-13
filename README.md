@@ -30,8 +30,9 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Antimatter543&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antimatter543&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
+![Followers](https://img.shields.io/github/followers/Antimatter543?style=for-the-badge&logo=github&color=7C6FF0&labelColor=1a1b27)
+![Stars](https://img.shields.io/github/stars/Antimatter543?style=for-the-badge&logo=github&color=7C6FF0&labelColor=1a1b27)
+![Profile views](https://komarev.com/ghpvc/?username=Antimatter543&style=for-the-badge&color=7C6FF0&label=PROFILE+VIEWS)
 
 </div>
 
