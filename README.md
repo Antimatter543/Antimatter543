@@ -2,22 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7C6FF0&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Yuvraj+(Anti)+%F0%9F%91%8B;Building+tools+that+increase+human+agency;RL+%2B+pushing+the+boundaries+of+AI;Turning+curiosity+into+things+that+ship" alt="Typing SVG" />
 
-<br/>
-
-`AI / RL builder` · `Brisbane 🇦🇺` · `UQ valedictorian` · [`raeduslabs.com`](https://raeduslabs.com/)
-
 </div>
-
----
-
-### 👋 About me
-
-I'm a software engineer who cares less about arriving and more about the pursuit. My heart is in **reinforcement learning** and pushing the boundaries of what AI can do — but the *why* underneath it all is **agency**: building open tools that give people more power over their own lives and close the gap that information inequality creates.
-
-- 🔭 Currently exploring RL, autoregressive language models, and agentic systems
-- 🧠 Autistic + ADHD — I build a lot of my tools to work *with* the way my brain actually runs
-- ⚡ Bias toward shipping: build first, iterate fast
-- 📫 Reach me → **spiralknightsowner@gmail.com**
 
 ---
 
@@ -48,8 +33,14 @@ I'm a software engineer who cares less about arriving and more about the pursuit
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Antimatter543&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antimatter543&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
 
-<br/>
-
-> *"The underpinning of everything is to let our consciousness experience the most it can."*
-
 </div>
+
+---
+
+Want to talk about something? Contact spiralknightsowner@gmail.com
+<!---
+- 📫 How to reach me - Email @ spiralknightsowner@gmail.com
+- 🌱 I’m currently learning computer science, communication, and data visualisation. But my heart lies in RL and furthering the boundaries of AI.
+Antimatter543/Antimatter543 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
