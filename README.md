@@ -9,8 +9,8 @@
 ### 🚀 Featured Projects
 
 - **[Nudge](https://github.com/astraedus/nudge)** - Privacy-first ADHD Android app blocker. Delay-to-open friction, reel/click counters. I personally use it. No data collection because I have morals.
-- **[Karpathy NN Lectures](https://github.com/Antimatter543/karpathy-NN-lectures)** — My full runthrough (with notes) of Karpathy's lectures: neural nets from scratch -> simple autoregressive language models -> GPT. Learning the fundamentals by rebuilding them.
-- **[SoulSync — Mood Tracker](https://github.com/Antimatter543/mood-tracker)** — Offline, private mood tracker for Android. 10-point mood scale, activity-correlation stats (walking + nature => increased mood), and plain-language insights. No account, no ads, no analytics.
+- **[Karpathy NN Lectures](https://github.com/Antimatter543/karpathy-NN-lectures)** - My full runthrough (with notes) of Karpathy's lectures: neural nets from scratch -> simple autoregressive language models -> GPT. Learning the fundamentals by rebuilding them.
+- **[SoulSync — Mood Tracker](https://github.com/Antimatter543/mood-tracker)** - Offline, private mood tracker for Android. 10-point mood scale, activity-correlation stats (walking + nature => increased mood), and plain-language insights. No account, no ads, no analytics.
 
 ---
 
